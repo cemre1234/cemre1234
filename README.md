@@ -1,16 +1,15 @@
-### Hi there 👋
+#Freelance React.js Developer
+I have been working as software development since 2012.
 
-<!--
-**cemre1234/cemre1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##My front-end skills are as follows:
+• React
+• Ionic
+• Javascript (ES5, ES6 and higher)
+• CSS3,
+• Bootstrap and similar grid systems,
+• Jquery and JqueryUI components
+• Although I am not very experienced, I use SASS.
+• I developed interfaces to many opensource CMS with different template engines.
+• I developed a news mobile application using React, Ionic and Capacitor structures.
+• I developed "Discount Calculator" application with Javascript and Cordova.
+• I developed a mobile application called "Bebekmama" (Baby Foods App) with React Native.
