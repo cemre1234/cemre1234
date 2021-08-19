@@ -1,7 +1,7 @@
-#Freelance React.js Developer
+# Freelance React.js Developer
 I have been working as software development since 2012.
 
-##My front-end skills are as follows:
+## My front-end skills are as follows:
 • React
 • Ionic
 • Javascript (ES5, ES6 and higher)
